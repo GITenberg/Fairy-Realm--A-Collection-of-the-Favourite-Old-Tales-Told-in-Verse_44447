@@ -27,6 +27,8 @@ creator:
     gutenberg_agent_id: '42752'
     url: http://www.gutenberg.org/2009/agents/42752
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44447#Fairy-Realm--A-Collection-of-the-Favourite-Old-Tales-Told-in-Verse
 gutenberg_issued: '2013-12-16'
 gutenberg_type: Text
 identifiers:
